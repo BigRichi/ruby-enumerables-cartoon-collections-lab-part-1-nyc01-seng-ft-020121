@@ -16,4 +16,4 @@ def list_dwarves(array)
   end
 end
 
-list_dwarvs([])
+list_dwarvs(["Dopey", "Grumpy", "Bashful"])
