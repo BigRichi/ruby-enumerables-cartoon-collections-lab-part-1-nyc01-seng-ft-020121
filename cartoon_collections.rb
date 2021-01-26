@@ -15,3 +15,5 @@ def list_dwarves(array)
     print "#{idx}. *#{ele}"
   end
 end
+
+list_dwarvs([])
