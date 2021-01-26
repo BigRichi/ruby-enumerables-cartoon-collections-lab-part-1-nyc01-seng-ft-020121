@@ -15,5 +15,3 @@ def list_dwarves(array)
     puts "#{idx}.*#{ele}"
   end
 end
-
-list_dwarves(["Dopey", "Grumpy", "Bashful"])
